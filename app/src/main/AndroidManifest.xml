@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nauanthongminh">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NauAnThongMinh">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".DangKy"></activity>
+        <activity android:name=".DangNhap">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FoodList"></activity>
+        <activity android:name=".FoodListChay" />
+        <activity android:name=".FoodListCanh"></activity>
+        <activity android:name=".FoodListXao"></activity>
+        <activity android:name=".FoodListLuoc"></activity>
+        <activity android:name=".InsertFood"></activity>
+        <activity android:name=".EditFood"></activity>
+        <activity android:name=".EditFoodXao"></activity>
+        <activity android:name=".EditFoodCanh"></activity>
+        <activity android:name=".EditFoodChay"></activity>
+        <activity android:name=".EditFoodLuoc"></activity>
+        <activity android:name=".FoodDetail"></activity>
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

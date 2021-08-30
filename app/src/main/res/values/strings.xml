@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmartCooking</string>
+    <string name="babyeasy">BABYEASY</string>
+    <string name="www_babyeasy_com">www.SmartCooking.com</string>
+    <string name="childstudy">SmartCooking</string>
+    <string name="lop1">MẶN</string>
+    <string name="l_p_2">XÀO</string>
+    <string name="tho_t">THOÁT</string>
+    <string name="l_p_5">CHAY</string>
+    <string name="l_p_4">CANH</string>
+    <string name="l_p_3">LUỘC</string>
+    <string name="n_m_n">ĐỒ ĂN MẶN</string>
+    <string name="quay_l_i">Quay lại</string>
+    <string name="th_m">Thêm</string>
+    <string name="t_n_m_n">Tên món</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
